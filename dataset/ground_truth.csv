@@ -1,0 +1,28 @@
+file;kondisi;jumlah_objek;utuh;patah;keterangan
+ideal_01.jpg;ideal;31;31;0;31 utuh
+ideal_02.jpg;ideal;35;35;0;35 utuh
+ideal_03.jpg;ideal;40;40;0;40 utuh
+ideal_04.jpg;ideal;45;45;0;45 utuh
+ideal_05.jpg;ideal;50;50;0;50 utuh
+ideal_06.jpg;ideal;55;55;0;55 utuh
+ideal_07.jpg;ideal;60;60;0;60 utuh
+ideal_08.jpg;ideal;65;65;0;65 utuh
+ideal_09.jpg;ideal;70;70;0;70 utuh
+ideal_10.jpg;ideal;75;75;0;75 utuh
+ideal_11.jpg;ideal;80;80;0;80 utuh
+rusak_01.jpg;rusak;40;35;5;5 rusak, 35 utuh
+rusak_02.jpg;rusak;40;25;15;15 rusak, 25 utuh
+rusak_03.jpg;rusak;40;20;20;20 rusak, 20 utuh
+rusak_04.jpg;rusak;40;15;25;25 rusak, 15 utuh
+rusak_05.jpg;rusak;40;5;35;35 rusak, 5 utuh
+cahaya_01.jpg;cahaya;40;40;0;lampu dari atas (asumsi semua utuh, silakan koreksi)
+cahaya_02.jpg;cahaya;40;40;0;lampu dari bawah (asumsi semua utuh, silakan koreksi)
+cahaya_03.jpg;cahaya;40;40;0;lampu dari kiri (asumsi semua utuh, silakan koreksi)
+cahaya_04.jpg;cahaya;40;40;0;lampu dari kanan (asumsi semua utuh, silakan koreksi)
+cahaya_05.jpg;cahaya;40;40;0;lampu dari kiri bawah (asumsi semua utuh, silakan koreksi)
+sulit_01.jpg;sulit;40;40;0;40 utuh
+sulit_02.jpg;sulit;50;40;10;10 rusak 40 utuh
+sulit_03.jpg;sulit;50;50;0;50 utuh
+sulit_04.jpg;sulit;55;55;0;55 utuh
+sulit_05.jpg;sulit;65;65;0;65 utuh
+sulit_06.jpg;sulit;80;80;0;80 utuh

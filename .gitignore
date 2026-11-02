@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# File uji API yang berisi API key — jangan di-push ke repo publik
+p.py
+
+# Duplikat dan arsip besar
+dataset/dataset.zip
+dataset/dataset/
+output.zip
+UTS_VisKom_Kelompok07.zip
+
+# OS
+.DS_Store
+Thumbs.db
